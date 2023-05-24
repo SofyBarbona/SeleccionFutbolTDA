@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1667144088 source:c:\users\sofibarbona\desktop\2estructuras-20230524t154744z-001\2estructuras\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"jugador.h"
+
+1667144074 c:\users\sofibarbona\desktop\2estructuras-20230524t154744z-001\2estructuras\jugador.h
+
+1684943466 source:c:\users\sofibarbona\desktop\2estructuras-20230524t154744z-001\2estructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"jugador.h"
+	"seleccion.h"
+
+1667144074 c:\users\sofibarbona\desktop\2estructuras-20230524t154744z-001\2estructuras\seleccion.h
+
+1667144338 source:c:\users\sofibarbona\desktop\2estructuras-20230524t154744z-001\2estructuras\seleccion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"seleccion.h"
+	"jugador.h"
+
